@@ -1,14 +1,14 @@
 [
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.andrews.smakolyky",
-            "sha256_cert_fingerprints": [
-                "9B:83:44:8C:DB:7C:A7:7C:FF:00:65:B9:B1:17:F3:96:AE:47:BB:CA:31:69:A7:96:34:B0:DF:BE:63:D2:35:1A"
-            ]
-        }
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.andrews.smakolyky",
+      "sha256_cert_fingerprints": [
+        "9B:83:44:8C:DB:7C:A7:7C:FF:00:65:B9:B1:17:F3:96:AE:47:BB:CA:31:69:A7:96:34:B0:DF:BE:63:D2:35:1A"
+      ]
     }
+  }
 ]
